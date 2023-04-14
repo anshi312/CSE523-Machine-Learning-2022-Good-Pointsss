@@ -8,8 +8,9 @@ https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 ## Results:
 Best Accuracy - By Random Forest Regression
-Red Wine: 80%
-White Wine: 81%
+
+Red Wine: 80% || White Wine: 81%
+
 Important Parameters (for this model): Alcohol, Volatile Acidity
 
 ## References:
