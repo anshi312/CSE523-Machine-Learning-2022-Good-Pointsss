@@ -3,15 +3,17 @@ A machine learning based project that includes prediction of wine quality and ev
 
 Globally, wine is the most commonly consumed beverage, and its societal significance is highly regarded. The quality of wine is crucial for both consumers and producers in the current competitive market as it directly impacts revenue. However, determining quality based on personal taste can be challenging. To address this, manufacturers have incorporated technology in the development phase to assess wine quality using various devices, saving time and money while accumulating significant data on production parameters. In recent years, machine learning techniques have been successfully applied to analyse this data and optimize the parameters that influence wine quality. This approach enables manufacturers to fine-tune the quality of their wine and even create new brands with distinct tastes. Therefore, it is vital to analyse the fundamental parameters that determine wine quality.
 
+The Google Collab file is uploaded.
+
 ## Dataset from: UCI Machine Learning Repository
 https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 ## Results:
 Best Accuracy - By Random Forest Regression
 
-Red Wine: 80% || White Wine: 81%
+Red Wine: 80% || White Wine: 82%
 
-Important Parameters (for this model): Alcohol, Volatile Acidity
+Important Parameters: Alcohol, Sulphates and Volatile Acidity
 
 ## References:
 
